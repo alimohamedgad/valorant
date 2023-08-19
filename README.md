@@ -1,16 +1,15 @@
-# valorant
+# Flutter Valorant App
 
-A new Flutter project.
+# App Screen
+![valorant images](https://github.com/alimohamedgad/valorant/assets/108583289/11499cbc-9b44-4907-9024-bb3631cf05e8)
 
-## Getting Started
+## Dependencies 📦️
 
-This project is a starting point for a Flutter application.
+- [dio](https://pub.dev/packages/dio) - A powerful HTTP networking package
+- [flutter Bloc](https://pub.dev/packages/flutter_bloc) - Flutter bloc for Statemanagement 
+- [get_it](https://pub.dev/packages/get_it) - Get It for Dependency injection
+- [cached_network_image](https://pub.dev/packages/cached_network_image) - Flutter library to load and cache network images.
 
-A few resources to get you started if this is your first Flutter project:
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash) - for change native splash screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
