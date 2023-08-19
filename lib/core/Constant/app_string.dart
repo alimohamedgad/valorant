@@ -1,0 +1,109 @@
+class AppString {
+  static const String photonServer = "photon-server";
+  static const String getCode = "get-code";
+  static const String filescount = "files-count";
+  static const String getPaths = "getpaths";
+  static const String faviconico = "favicon.ico";
+  static const String application = "application";
+  static const String octetstream = "octet-stream";
+  static const String utf8 = "octet-utf-8";
+  static const String contentTransferEncoding = "Content-Transfer-Encoding";
+  static const String paths = "paths";
+  static const String host = "host";
+  static const String binary = "Binary";
+  static const String contentdisposition = "Content-disposition";
+  static const String code = "code";
+  static const String wrorngreq =
+      "Wrong secret-code.Photon-server denied access";
+  static const String contentlength = "Content-length";
+  static const String accepted = "accepted";
+  static const String port = "port";
+  static const String receivername = "receiver-name";
+  static const String available = "Available";
+  static const String storage = "Storage";
+  static const String hassend = "Has Send";
+  static const String gotogallery = "Go to gallery";
+  static const String takefile = "Take Your Files";
+  static const String terminatesession =
+      "Would you like to terminate the current session'";
+  static const String alert = "Alert";
+  static const String stay = "Stay";
+  static const String wouldulike = "Would you Like Terminate";
+  static const String thecurrentsession = "the Current session ?";
+  static const String goback = "Go back";
+  static const String terminate = "Terminate";
+  static const String makesure = "Make sure that transfer is completed !";
+  static const String makesuredownload = "Make sure that download";
+  static const String iscompleteddownload = " is completed !";
+  static const String everyWhere = "EveryWhere";
+  static const String baseurl = "192.168";
+  static const String save = " Save";
+  static const String androidpath = '/storage/emulated/0/Download/';
+  static const String error = 'Error';
+  static const String name = 'name';
+  static const String size = 'size';
+  static const String file = 'file';
+  static const String extension = 'extension';
+  static const String android = 'android';
+  static const String ios = 'ios';
+  static const String windows = 'windows';
+  static const String macos = 'macos';
+  static const String linux = 'linux';
+  static const String type = 'type';
+  static const String iP = 'IP';
+  // static const String port ='Port';
+  static const String oS = 'OS';
+  static const String version = 'Version';
+  static const String value = 'value';
+  static const String requestfromreciver = 'Request from receiver';
+  static const String whouldulike = ' Would you like to share with them ?';
+  static const String success = 'Success';
+  static const String okay = 'okay';
+  static const String deny = 'Deny';
+  static const String srver = " Server alert";
+  static const String plzwait = " Please wait !";
+  static const String lastre = "Last Recived";
+  static const String scanning = "Scaning";
+  static const String receiving = "Receving";
+  static const String accessdenied = "Access denied by the sender";
+  static const String isrequest = "is requesting for files.";
+  static const String scanningsharescreen = "Searching for\ndevices .....";
+  static const String yourfiles = "Your files are ready to be shared";
+  static const String yourfilesask =
+      "Your file is ready to be shared'}\nAsk receiver to tap on receive button";
+  static const String selectsender = "Please select the sender\n from the ";
+  static const String followinglist = " following list";
+  static const String filesavedin = "Files will be saved at";
+  static const String plzReScan = "Plz Re-Scan";
+  static const String waitsender =
+      "Waiting for sender to approve,ask sender to approve";
+  static const String nodevice =
+      'No device found\nMake sure sender & receiver are connected through mobile hotspot\nOR\nSender and Receivers are connected to same wifi\n';
+  static const String see = "See ALL";
+  static const String pdf = "pdf";
+  static const String mp3 = "mp3";
+  static const String html = "html";
+  static const String jpeg = "jpeg";
+  static const String png = "png";
+  static const String exe = "exe";
+  static const String apk = "apk";
+  static const String dart = "dart";
+  static const String mp4 = "mp4";
+  static const String fileInfo = "fileInfo";
+  static const String fileName = "fileName";
+  static const String date = "date";
+  static const String filePath = "filePath";
+  static const String history = "history";
+  static const String sendandrecive = "Send And Recived";
+  static const String quickly = "Quickly";
+  static const String sendwhateveru = "Send Whatever you";
+  static const String allfiles = "All Your Files";
+  static const String want = "Want";
+  static const String rsafe = "Are Safe";
+  static const String decone = "Send and receive your files quickly "
+      "and easily with the click of a button";
+  static const String dectwo = "Send And Receive Your Files Quickly"
+      "And Easily With The Click Of A Button";
+  static const String decthree = "Send And receive your files quickly"
+      "And Easily With The Click Of A button";
+}
